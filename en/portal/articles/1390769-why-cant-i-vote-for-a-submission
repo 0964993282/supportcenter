@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Why can’t I vote for a submission?</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link href="milligram.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h3>Why can’t I vote for a submission?</h3>
+      <p>If you can't vote on a submission, it's possible that you've already voted for that particular entry. You can vote for as many submissions as you'd like, but only once per submission (i.e. you can't vote multiple times for the same submission).</p>
+
+      <p>If you didn't already vote for the submission and are still having problems, please <a href="mailto:support@devpost.com">contact us</a>.</p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
+    </div>
+  </body>
+</html>

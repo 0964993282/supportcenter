@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Register for a hackathon</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link href="milligram.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h3>How to register for a hackathon:</h3>
+      <p>Before you can enter a submission or access the submission form, you must first register for the hackathon you’re interested in.</p>
+      <p><em>Please note: signing up for a Devpost account does not register you for any hackathons</em>.</p>
+      <ol>
+        <li>Navigate to the URL of the hackathon you’re interested in. If the submission period is open, you will see a "<strong>Register</strong>" button.<br>
+          <img alt="" src="/images/1386794_en/414778">
+
+        </li>
+        <li>Click the "<strong>Register</strong>" button. Once you are registered, that button will change to say "<strong>Enter a submission</strong>".</li>
+      </ol>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
+    </div>
+  </body>
+</html>

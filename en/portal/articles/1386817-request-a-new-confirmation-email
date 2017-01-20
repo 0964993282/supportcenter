@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Request a new confirmation email</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link href="milligram.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h3>Request a new confirmation email</h3>
+      <p>If you've already checked your spam folder, <a href="https://devpost.com/users/confirmation/new">request a new confirmation email here</a>. If you still don't receive an email, <a href="mailto:support@devpost.com">contact us</a>.</p>
+
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
+    </div>
+  </body>
+</html>

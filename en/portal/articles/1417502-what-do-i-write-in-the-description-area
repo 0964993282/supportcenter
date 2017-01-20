@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>What do I write in the description area?</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link href="milligram.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h3>What do I write in the description area?</h3>
+      
+      <p>Use the text description area to explain and market your app. Be sure to explain what your software does, the problem it solves, and how someone would use it.</p>
+
+      <p>There is no word limit, but we recommend keeping your description to 250 words or less.</p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Edit your profile information</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link href="milligram.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h3>To update your profile information</h3>
+      <p>Your public profile shows the software you've entered in hackathon and personal information that you may have entered upon sign-up, such as your photo, location, bio, Twitter handle, website, or skills.</p>
+
+      <p><em>Please note: we will never make your email address or full name public. For more information on what will be shown to the public, please see our privacy policy</em>.</p>
+
+      <ol>
+        <li>Log in to your Devpost account.</li>
+        <li>Click your username at the top right corner of the page.</li>
+        <li>From the dropdown menu, select "<strong>Settings</strong>."</li>
+        <li>Select "<strong>Info</strong>" to edit your photo, name, location, bio, Twitter handle, or website. Click "<strong>Save Changes</strong>" after you’ve updated your information.</li>
+      </ol>
+
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
+    </div>
+  </body>
+</html>

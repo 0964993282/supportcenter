@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>What’s the difference between signing up for Devpost and registering for a hackathon?</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link href="milligram.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h3>What’s the difference between signing up for Devpost and registering for a hackathon?</h3>
+      <p>When you sign up for a Devpost account, you can browse hackathons on devpost.com and even comment or post on the Discussion Board, but you won’t be able to submit to a hackathon until you register for it.</p>
+
+      <p>If you already have a Devpost account, you’ll still need to register for hackathons you’d like to enter. Check out our guide on how to <a href="/en/portal/articles/1386794-register-for-a-hackathon">register for a hackathon</a> for more details.</p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
+    </div>
+  </body>
+</html>

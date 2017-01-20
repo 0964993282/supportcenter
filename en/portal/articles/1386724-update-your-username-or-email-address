@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Update your username or email address</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link href="milligram.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+
+      <h3>You can update your username and email address at any time:</h3>
+      <ol>
+        <li>Log in to your Devpost account with Facebook or GitHub, or use your existing email address.</li>
+        <li>Click your username at the top right corner of the page.</li>
+        <li>From the dropdown menu, select “<strong>Settings</strong>.”</li>
+        <li>Select “<strong>Account</strong>” to edit your username and email address, or to connect your GitHub and Facebook accounts.</li>
+        <li>Click “<strong>Save changes</strong>.”</li>
+      </ol>
+
+      <p><em>Please note: if you update your email address, expect a new confirmation email from us. You won't be able to access your account until you click the link in the confirmation email</em>.</p>
+
+
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
+    </div>
+  </body>
+</html>

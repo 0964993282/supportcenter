@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Get notified of new hackathons</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link href="milligram.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+
+      <h3>Here's how to get notified when we launch new hackathons in your area:</h3>
+      <ol>
+        <li>Log in to your Devpost account.</li>
+        <li>Click your username at the top right corner of the page.</li>
+        <li>From the dropdown menu, select "<strong>Settings</strong>."</li>
+        <li>Select "<strong>Notifications</strong>."</li>
+        <li>Select "<strong>Email me about new challenges</strong>."</li>
+        <li>Click "<strong>Save changes</strong>."</li>
+      </ol>
+
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
+    </div>
+  </body>
+</html>

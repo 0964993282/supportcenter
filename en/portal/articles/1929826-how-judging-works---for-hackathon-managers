@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>How Judging Works - for Hackathon Managers</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link href="milligram.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h3>How Judging Works - for Hackathon Managers</h3>
+      <p>This article will walk you through the judging process and teach you how to add judges to your hackathon.</p>
+      <h4>Adding your judges during hackathon creation</h4>
+
+      <p>Your first task is to add the list of judges to your hackathon. When you are creating your hackathon, you will see a section called “Judging” on the dashboard. Click “Judging” under “Edit Your Challenge” to fill in the names of your judges.</p>
+
+      <p><img alt="" src="/images/1929826_en/431069"></p>
+
+      <h4>Adding judges</h4>
+
+      <p>The information added to the Judges section is publicly displayed on your hackathon, except for the judges’ email addresses and user names.</p>
+
+      <p><img alt="" src="/images/1929826_en/431071"></p>
+
+      <p>You can add anyone with an email address as a judge. When the judging period starts, each judge will receive an email that provides a link for judging submissions. (More on this later.) The email will also ask the judge to create an account, if necessary.</p>
+
+      <h4>Judging criteria</h4>
+
+      <p>After you’ve added your panel of judges to your hackathon, the next step is to add some judging criteria. The criteria serve as guidelines for both judges and submitters. Challenge.gov uses a 1-5 star rating for criteria. (More on this later.)</p>
+
+      <p><img alt="" src="/images/1929826_en/431072"></p>
+
+      <h4>Dates</h4>
+
+      <p>The final step in setting up judging is to fill out the “Dates” section.</p>
+
+      <p><img alt="" src="/images/1929826_en/431073"></p>
+
+      <p>The dates set the overall judging timeline, but the following rules also determine the timing:</p>
+
+      <ul>
+      	<li>Judging cannot start until all submissions have been reviewed and marked “Judge” or “Don’t Judge.”</li>
+        <li>A hackathon admin must click “Start Judging” to start the process.</li>
+        <li>Judging does not end automatically. A hackathon admin must click “Finish Judging.”</li>
+      </ul>
+
+      <h3>Choosing which submissions the judges will see</h3>
+
+      <p>Let’s say the submission period is over and you’re thrilled with the response. You’ve marked each submission as “Gallery” or “Hidden.” (Note: Submissions marked “Gallery” will be publicly visible only after you’ve clicked on “Turn on Gallery.”) However, you have too many “Gallery” submissions for your busy judges to review, and you’d like to narrow them down from the 100 “Gallery” submissions to the 20 best ones for the judges to review.</p>
+
+      <p>So how do you do this? For each submission, select a status: “Judge,” “Maybe,” or “Don’t Judge.” The judges will see only the submissions you have marked “Judge.” You can use the “Maybe” status for submissions you’re not sure about, but all submissions will eventually have to be marked “Judge” or “Don’t Judge.” <b>Please note: The judging period cannot start if any submissions are marked “Maybe.”</b></p>
+
+      <ol>
+        <li>To review your submissions, go to “Submissions.” <br><img alt="" src="/images/1929826_en/430511">
+</li>
+        <li>Mark each submission as “Gallery” or “Hidden.”<br><img alt="" src="/images/1929826_en/431110">
+</li>
+        <li>Mark each submission as “Judge,” ” Maybe,” or “Don’t Judge.”<br><img alt="" src="/images/1929826_en/431109">
+</li>
+      </ol>
+
+      <p>
+      Once you’ve reviewed and marked all your submissions, you will have to click the “Turn on the Gallery” button to make the eligible submissions publicly visible. <b>Please note: The judging period cannot start until you turn on the gallery.</b></p>
+
+      <p>We highly recommend that you do not turn the gallery off after it has been turned on. If you turn the gallery off and then on, all the submitters of entries marked “Gallery” will receive a new email stating that their submission has been published.</p>
+
+      <h4>Starting judging</h4>
+
+      <p>The judging period has started. You’ve marked your submissions as “Judge” or “Don’t Judge.” Now it’s time to send a message to your judges and invite them to start judging.</p>
+
+      <p>Click the “Start Judging” button under the Judging/Voting section of the dashboard. The following email will automatically be sent to your judges:</p>
+
+      <p><img alt="" src="/images/1929826_en/431111"></p>
+
+      <p><b>Please note that the only way that judges can start judging is to click on the link provided in this email. Each judge will receive a unique link that will work only for that judge.</b></p>
+
+      <h4>Monitoring the judges’ progress</h4>
+
+      <p>After the invitations have been sent, you can check the judges’ progress on the judging dashboard.</p>
+
+      <p><img alt="" src="/images/1929826_en/431112"></p>
+
+      <p>
+      The dashboard shows you which judges have started judging and their scores. If the judging deadline is approaching and certain judges have not made any progress, you may want to send them a reminder.
+       </p>
+
+      <h4>What judges will see</h4>
+
+      <p>When a judge clicks the “Start judging” link in the email, the following page will appear.</p>
+
+      <p><img alt="" src="/images/1929826_en/431113"></p>
+
+      <p>The screen shows the judging criteria, as well as the judge’s progress through the submissions. The “Start Judging” button takes the judge to the first submission.</p>
+
+      <p>For each item in the list of criteria, the judge should assign a rating of 1-5 stars.</p>
+
+      <p><img alt="" src="/images/1929826_en/431115"></p>
+
+      <p>1 star is the lowest rating and 5 is the highest rating. (There is no other mechanism for judges to provide feedback.) For more details about the criteria, a judge can click the question mark icon next to each item in the list.</p>
+
+      <p>If a judge does not want to judge a particular submission because of a conflict of interest, he or she can select the “I recuse myself” checkbox.</p>
+
+      <p>After all submissions have been rated, the judge’s work is done.</p>
+
+      <h4>Ending judging</h4>
+
+      <p>You can manually end judging any time after the “Judging Period Ends” date has passed. We leave it up to you in case you want to allow additional time for judging. Simply click “Finish Judging” to end judging.</p>
+
+      <p>Want to know how the judging process works for the judges? Check out our article on <a href="/en/portal/articles/1931708-how-judging-works---for-judges">How judging works (for judges)</a>.</p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
+    </div>
+  </body>
+</html>

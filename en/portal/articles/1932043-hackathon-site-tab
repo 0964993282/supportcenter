@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hackathon Site Tab</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link href="milligram.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h3>Tips &amp; best practices for completing the hackathon site tab:</h3>
+      <p>On the Hackathon Site tab, you’ll provide information that will appear on the homepage of your hackathon. After you’ve completed this tab, you can come back anytime to finish creating your hackathon.</p>
+
+      <h4>About the hackathon</h4>
+      <p>Your description should provide an overview of the hackathon and answer the following questions: Who is running the hackathon? What is the goal of the hackathon? What are you asking people to submit?</p>
+
+      <p><img src="/images/1932043_en/521149"></p>
+
+      <h4>Video</h4>
+      <p>A compelling video can bring your hackathon to life and inspire the public to enter. If you decide to make a video, we encourage you to talk about what motivated your organization to create the hackathon and why people should participate.</p>
+      <p><img src="/images/1932043_en/521154"></p>
+
+
+      <h4>How to Enter</h4>
+      <p>Let users know what you are asking them to submit in simple steps. Here is an example of some “How to Enter” steps:</p>
+
+      <ol>
+      	<li>Click “Register” to access the submission form and start your draft early.</li>
+      	<li>Visit the Resources page to learn more about the SongBox API and how to get access.</li>
+      	<li>Create a working app that meets the requirements below, or update an existing app.</li>
+      	<li>Create a demonstration video and take some screenshots of your app.</li>
+      	<li>Provide a way for us to access your app for testing.</li>
+      	<li>Submit!</li>
+      </ol>
+      <p>Note: The <b>REGISTER</b> button will only appear when the submission period has started. It will not appear in the hackathon preview.</p>
+      <p><img src="/images/1932043_en/521156"></p>
+
+      <h4>Rules</h4>
+      <p>This is where you will post detailed rules from your legal department. Please try to make them comprehensive and user-friendly so that they will be clear to people who are looking to enter your hackathon.</p>
+      <p>You will want to include eligibility requirements, judging criteria, and let potential submitters know exactly what they will have to do to enter the hackathon.</p>
+      <p>Please note: Many hackathon managers want to add a rule that states that submitters cannot make any changes to their submission after it has been entered. We advise against adding this rule because our platform allows users to edit their submissions up until the end of the submission period.</p>
+      <p><img src="/images/1932043_en/521158"></p>
+
+      <h4>Submission Guidelines</h4>
+      <p>In this section, you should provide the eligibility requirements, such as age and country of residence and the submission requirements, such as what API must be used or what problem must be solved. These will give interested hackers the basic necessary information to compete.</p>
+      <p><img src="/images/1932043_en/521180"></p>
+
+      <p>Once you have filled out the Hackathon Site tab, continue on to the Submissions tab.</p>
+
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
+    </div>
+  </body>
+</html><html>
+<strong>Submission Guidelines </strong>
+</html>

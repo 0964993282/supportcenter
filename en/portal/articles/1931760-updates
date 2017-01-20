@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hackathon Updates</title>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link href="milligram.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <h3>Sending Hackathon Updates</h3>
+      <p>Updates are a helpful tool for reaching out to the community around your hackathon. Ideally, they are quick to read, they communicate important information, and they deepen users’ engagement and make them want to help the hackathon succeed.</p>
+
+      <h4>When should I write an update?</h4>
+
+      <p>We recommend writing an update when you have news that the majority of your audience will be interested in reading. For example:</p>
+
+      <ul>
+        <li>Important events and milestones, such as “New data released” or “3 days left to submit.”</li>
+        <li>Important announcements, such as the finalized panel of judges.</li>
+      </ul>
+
+      <h4>How often should I send updates?</h4>
+
+      <p>We recommend somewhere between 2-6 updates per hackathon. This number may vary, depending on the length and complexity of the hackathon. Some hackathons may lend themselves to more updates.</p>
+
+      <h4>How to create an update</h4>
+
+      <ol>
+        <li>On the <a href="http://manage.challengepost.com/dashboard">Management Dashboard</a>, click the hackathon you want to manage.</li>
+        <li>Click the <b>Updates</b> tab.</li>
+        <li>Click <b>Create New Update.</b>
+</li>
+      </ol>
+
+      <h4>Default messages</h4>
+
+      <p>The Updates tab automatically includes two default messages: “Public voting is now open” and “Announcing the winners.”</p>
+
+      <p>The “Public voting is now open” email will look like this:</p>
+
+      <p><img alt="" src="/images/1931760_en/431134"></p>
+
+      <p>The “Announcing the winners” email will look like this:</p>
+
+      <p><img alt="" src="/images/1931760_en/431135"></p>
+
+      <p>By default, these updates are turned on. If you don’t do anything, they will go out automatically. But if you’d like to edit the default messages, you have that option. You can also turn off the updates, if you don’t want them to be sent at all. To turn off an update, simply click the edit icon (the pencil icon) to the right of the update. Under <b>Send and publish?</b>, select <b>Off.</b></p>
+
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
+    </div>
+  </body>
+</html>
