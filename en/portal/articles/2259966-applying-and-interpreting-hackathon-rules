@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Applying and Interpreting Hackathon Rules</title>
@@ -12,7 +13,7 @@
       <h3>Applying and Interpreting Hackathon Rules</h3>
       <p>Again, you should consult your attorney if you have any questions about how to apply or interpret your rules. Here are a few suggestions to help manage a fair challenge:</p>
       <h4>Follow your own rules closely!</h4>
-      <p>Contestants will hold you to them. Don&rsquo;t allow in submissions that are missing a requirement or that include something prohibited. If your rules say a submission &ldquo;must&rdquo; (vs. &ldquo;should&rdquo;) include or do something, then it must. For example, if you require a video and it must be under 5 minutes, you will likely need to disqualify submissions with videos that go 5:10.</p>
+      <p>Contestants will hold you to them. Don’t allow in submissions that are missing a requirement or that include something prohibited. If your rules say a submission “must” (vs. “should”) include or do something, then it must. For example, if you require a video and it must be under 5 minutes, you will likely need to disqualify submissions with videos that go 5:10.</p>
 
       <h4>Be Consistent</h4>
       <p>If the rules leave room for discretion or interpretation, check with your attorney and make sure to apply the rules consistently to everyone participating in the challenge. Remember, letting people in because of a rule you wish you had is not sufficient. Fix it for next time. Exceptions disadvantage submitters.</p>
@@ -22,7 +23,7 @@
 
       <h4>Make sure everyone gets the same info</h4>
       <p>If you receive questions via email about your rules, post your answers to the Discussion forum as well, so everyone benefits equally from any clarification.</p>
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

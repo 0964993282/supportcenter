@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Creating Hackathon Rules - Communicating Requirements</title>
@@ -10,7 +11,7 @@
   <body>
     <div class="container">
       <h3>Creating Hackathon Rules - Communicating Requirements</h3>
-      <p>It&rsquo;s important that the requirements above aren&rsquo;t just buried in the Official Rules! You want visitors to your hackathon site to learn quickly whether they are eligible and what they need to create. We recommend repeating and summarizing key requirements in other places:</p>
+      <p>It’s important that the requirements above aren’t just buried in the Official Rules! You want visitors to your hackathon site to learn quickly whether they are eligible and what they need to create. We recommend repeating and summarizing key requirements in other places:</p>
 
 
       <h4>Homepage</h4>
@@ -24,7 +25,7 @@
 
       <h4>FAQ (if you have one)</h4>
       <p>Call out the key requirements on the FAQ page and add new questions and answers as they come up.</p>
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

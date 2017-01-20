@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-    <html lang="en">
+<html lang="en">
       <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Devpost Help Center</title>
@@ -12,22 +13,43 @@
           <h3>The hackathon essentials tab:</h3>
           <p>The Essentials tab is designed to collect the most basic information about your hackathon. This page provides tips and best practices for filling out the Essentials tab.</p>
           <oul>
-            <li><strong>Name</strong><p>Try to be specific and informative when choosing your hackathon title. &ldquo;Apps Against Abuse&rdquo; is an example of an aptly named.</p><img src="images/1932000_en/518944"></li>
-            <li><strong>URL</strong><p>Choose a URL that includes some part of your hackathon name so that it is easy for people to remember. For example, the Patient Engagement App Challenge URL was http://patientengagement.challengepost.com.</p><img src="images/1932000_en/521119"></li>
-            <li><strong>Time Zone</strong><p>All hackathons are set to (GMT -05:00) Eastern Time by default. However, if you&rsquo;d like to use your local time zone, you can set that up here.</p><img src="images/1932000_en/518971"></li>
-            <li><strong>Tagline</strong><p>Good taglines include the name of the organization/group hosting the hackathon, what the hackathon is, and what people should submit. An example of a good tagline is: Transform the clinical trial experience for patients &mdash; submit apps that educate, engage, and empower participants enrolled in clinical studies.</p><img src="images/1932000_en/521091"></li>
-            <li><strong>Manager contact email</strong><p>Participants will have questions for you about your hackathon.  We recommend including an email address that will be connected to a homepage button "<strong>Email the hackathon manager.</strong>" The address will be publicly visible to users who click that link.</p><img src="images/1932000_en/555828"></li>
-            <li><strong>Design</strong><p>You&rsquo;ll also be able to customize the look and feel of your hackathon site on this page. Using the help text for each section as a guide, you&rsquo;ll be able to:</p>
+            <li>
+<strong>Name</strong><p>Try to be specific and informative when choosing your hackathon title. “Apps Against Abuse” is an example of an aptly named.</p>
+<img src="/images/1932000_en/518944">
+</li>
+            <li>
+<strong>URL</strong><p>Choose a URL that includes some part of your hackathon name so that it is easy for people to remember. For example, the Patient Engagement App Challenge URL was http://patientengagement.challengepost.com.</p>
+<img src="/images/1932000_en/521119">
+</li>
+            <li>
+<strong>Time Zone</strong><p>All hackathons are set to (GMT -05:00) Eastern Time by default. However, if you’d like to use your local time zone, you can set that up here.</p>
+<img src="/images/1932000_en/518971">
+</li>
+            <li>
+<strong>Tagline</strong><p>Good taglines include the name of the organization/group hosting the hackathon, what the hackathon is, and what people should submit. An example of a good tagline is: Transform the clinical trial experience for patients — submit apps that educate, engage, and empower participants enrolled in clinical studies.</p>
+<img src="/images/1932000_en/521091">
+</li>
+            <li>
+<strong>Manager contact email</strong><p>Participants will have questions for you about your hackathon.  We recommend including an email address that will be connected to a homepage button "<strong>Email the hackathon manager.</strong>" The address will be publicly visible to users who click that link.</p>
+<img src="/images/1932000_en/555828">
+</li>
+            <li>
+<strong>Design</strong><p>You’ll also be able to customize the look and feel of your hackathon site on this page. Using the help text for each section as a guide, you’ll be able to:</p>
               <ol>
-                <li>Upload a square thumbnail image for your hackathon. This image will be used to represent your hackathon in places such as the Devpost discover page. The image must be a JPG, GIF or PNG file, up to 5 MB. For best results crop to 300x300 pixels.<br><img src="images/1932000_en/521094"></li>
-                <li>Upload one image to be used in the header banner section of your hackathon. The image must be a JPG, GIF or PNG file up to 5 MB. For best results crop to 1170 pixels wide (maximum height: 156px).<br><img alt="" src="images/1932000_en/521097"  /></li>
-                <li>Select a background color for your header area<br><img alt="" src="images/1932000_en/431258"  /></li>
-                <li>Select a hackathon name text color (if not header image is used)<br><img alt="" src="images/1932000_en/521105"  /></li>
+                <li>Upload a square thumbnail image for your hackathon. This image will be used to represent your hackathon in places such as the Devpost discover page. The image must be a JPG, GIF or PNG file, up to 5 MB. For best results crop to 300x300 pixels.<br><img src="/images/1932000_en/521094">
+</li>
+                <li>Upload one image to be used in the header banner section of your hackathon. The image must be a JPG, GIF or PNG file up to 5 MB. For best results crop to 1170 pixels wide (maximum height: 156px).<br><img alt="" src="/images/1932000_en/521097">
+</li>
+                <li>Select a background color for your header area<br><img alt="" src="/images/1932000_en/431258">
+</li>
+                <li>Select a hackathon name text color (if not header image is used)<br><img alt="" src="/images/1932000_en/521105">
+</li>
               </ol>
             </li>
-          </ul>
+          
           <p>Once you have filled out the Essentials section, continue on to the Homepage tab.</p>
-          <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
-        </div>
+          <p><a href="index.html">← Return to Devpost Support Center</a></p>
+        </oul>
+</div>
       </body>
     </html>

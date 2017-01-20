@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How many times can I vote?</title>
@@ -10,9 +11,9 @@
   <body>
     <div class="container">
       <h3>How many times can I vote?</h3>
-      <p>You can vote for as many submissions as you&#39;d like, but only once per submission (i.e. you can&#39;t vote multiple times for the same submission).</p>
+      <p>You can vote for as many submissions as you'd like, but only once per submission (i.e. you can't vote multiple times for the same submission).</p>
 
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

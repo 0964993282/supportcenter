@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Awarding Prizes to Hackathon Winners</title>
@@ -10,61 +11,63 @@
   <body>
     <div class="container">
       <h3>Awarding Prizes to Hackathon Winners</h3>
-      <p>To close your hackathon, you need to award prizes to the winners. When you award winners, you simply match the prizes you defined earlier to the winners you select. See <a href="1931807_en.html">Setting up prizes</a> for more information.</p>
+      <p>To close your hackathon, you need to award prizes to the winners. When you award winners, you simply match the prizes you defined earlier to the winners you select. See <a href="/en/portal/articles/1931807-setting-up-prizes">Setting up prizes</a> for more information.</p>
       <h4>Prerequisites</h4>
 
       <p>You will not be able to award prizes to winners until the judging and public voting periods have ended.</p>
 
       <h4>Selecting the winners</h4>
 
-      <p>To award prizes, click <b>Select Winners</b> on the tab labeled <b>The challenge.</b> You&rsquo;ll see the prizes you defined earlier on the left. On the right side of the page shows a sortable list of public voting scores (if public voting is enabled), as well as the judging criteria and scores for each submission.</p>
+      <p>To award prizes, click <b>Select Winners</b> on the tab labeled <b>The challenge.</b> You’ll see the prizes you defined earlier on the left. On the right side of the page shows a sortable list of public voting scores (if public voting is enabled), as well as the judging criteria and scores for each submission.</p>
 
-      <p><img alt="" src="images/1931918_en/570551"  /></p>
+      <p><img alt="" src="/images/1931918_en/570551"></p>
 
       <ul>
-          <li>You can sort the list of submissions by clicking the column headings, such as <b>Overall Rating</b></li>
+          <li>You can sort the list of submissions by clicking the column headings, such as <b>Overall Rating</b>
+</li>
           <li>To select a winner, simply drag and drop the submission name into the prize on the left.</li>
       </ul>
 
-      <p>After you&rsquo;ve selected the winners, click on the yellow <b>Continue to announcements</b> button on the bottom right.</p>
+      <p>After you’ve selected the winners, click on the yellow <b>Continue to announcements</b> button on the bottom right.</p>
 
       <p>
 
-      <h4>Sending a message</h4>
+      </p>
+<h4>Sending a message</h4>
 
       <p>An automatic email will be sent to the winners once you announce winners on the platform. You have the option to add a custom message to the winners and the nonwinners, or just the winners.</p>
 
-      <p><em>Please note: You can add additional text to the body of the standard email below, but you cannot modify the existing text. If you don&rsquo;t want to add an additional message to the winners or nonwinners, you can just leave both fields blank.</em></p>
+      <p><em>Please note: You can add additional text to the body of the standard email below, but you cannot modify the existing text. If you don’t want to add an additional message to the winners or nonwinners, you can just leave both fields blank.</em></p>
 
-      <p><img alt="" src="images/1931918_en/431214"  /></p>
+      <p><img alt="" src="/images/1931918_en/431214"></p>
 
       <p>In the two images below you can see how your custom message would appear in both emails if you chose to include them.</p>
 
       <h5>For the winners</h5>
 
-      <p><img alt="" src="images/1931918_en/431218"  /></p>
+      <p><img alt="" src="/images/1931918_en/431218"></p>
 
       <h5>For the non-winners</h5>
 
-      <p><img alt="" src="images/1931918_en/431219"  /></p>
+      <p><img alt="" src="/images/1931918_en/431219"></p>
 
       <h4>Publishing the winners</h4>
 
-      <p>After you&rsquo;ve defined the custom messages,you need to choose when to publish the winners: <b>immediately</b> or <b>at a specific date and time</b>.</p>
+      <p>After you’ve defined the custom messages,you need to choose when to publish the winners: <b>immediately</b> or <b>at a specific date and time</b>.</p>
 
       <p><em>Please note: you must choose one of these options in order for winners to be announced.</em></p>
 
-      <p><img alt="" src="images/1931918_en/431220"  /></p>
+      <p><img alt="" src="/images/1931918_en/431220"></p>
 
       <p>The <b>at a specific date and time</b> field defaults to the winners announcement date you defined when you first created the hackathon. But you can select any date and time to make the announcement. If you change the date and time of the announcement, it will also be changed publicly on the hackathon homepage. If you choose <b>immediately</b>, the winners will be published on the hackathon homepage immediately.</p>
 
       <p><em>Please note: as soon as your winners are announced on the platform, an email update goes out to everyone following your </em><em>hackathon</em><em>. This message will also appear under the <b>Updates</b> tab. </em></p>
 
-      <p>Once your winners have been published, a button will appear on the homepage of your hackathon that links to the Submission Gallery where the winning submissions will be marked with a &ldquo;Winner&rdquo; ribbon. In addition, a Winners Gallery will appear on the homepage displaying the winning submissions. </p>
+      <p>Once your winners have been published, a button will appear on the homepage of your hackathon that links to the Submission Gallery where the winning submissions will be marked with a “Winner” ribbon. In addition, a Winners Gallery will appear on the homepage displaying the winning submissions. </p>
 
-      <p>Once you&rsquo;ve announced the winners, that&rsquo;s it! You&rsquo;ve successfully ended your hackathon.</p>
+      <p>Once you’ve announced the winners, that’s it! You’ve successfully ended your hackathon.</p>
 
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

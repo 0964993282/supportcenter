@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How do I unregister from a hackathon?</title>
@@ -13,15 +14,15 @@
       <p>You can unregister for a hackathon at any time up until you submit a project.</p>
       <ol>
         <li>Log into your Devpost account</li>
-        <li>Navigate to the hackathon homepage you&#39;d like to unregister from</li>
+        <li>Navigate to the hackathon homepage you'd like to unregister from</li>
         <li>Click the "<strong>Unregister</strong>" link below the "<strong>Look for Teammates</strong>" button
           <br>
-          <img src="images/1386804_en/432473"  />
+          <img src="/images/1386804_en/432473">
         </li>
-        <li>Once you unregister from a hackathon, you&#39;ll no longer receive email updates about it and you won&#39;t be able to submit a project to the hackathon.</li>
+        <li>Once you unregister from a hackathon, you'll no longer receive email updates about it and you won't be able to submit a project to the hackathon.</li>
 
       </ol>
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

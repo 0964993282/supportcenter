@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Delete your Devpost account</title>
@@ -12,17 +13,17 @@
 
       <h3>Here's how to delete your Devpost account:</h3>
 
-      <p><em>Please keep in mind that deleting your account will delete your history, but not your submissions. And while there is no way to restore your deleted account, you&rsquo;re welcome to sign up for a new account at any time</em>.</p>
+      <p><em>Please keep in mind that deleting your account will delete your history, but not your submissions. And while there is no way to restore your deleted account, you’re welcome to sign up for a new account at any time</em>.</p>
 
       <ol>
         <li>Log in to your account.</li>
         <li>Click your username at the top right corner of the page.</li>
-        <li>From the dropdown menu, select &ldquo;<strong>Settings</strong>.&rdquo;</li>
-        <li>Select &ldquo;<strong>Account</strong>.&rdquo;</li>
-        <li>Click &ldquo;<strong>Delete account</strong>&rdquo; at the bottom right corner of the page. Your account will be deleted immediately.</li>
+        <li>From the dropdown menu, select “<strong>Settings</strong>.”</li>
+        <li>Select “<strong>Account</strong>.”</li>
+        <li>Click “<strong>Delete account</strong>” at the bottom right corner of the page. Your account will be deleted immediately.</li>
       </ol>
 
-      <a href="https://challengepost.github.io/supportcenter/">&larr; Return to Devpost Support Center</a>
+      <a href="https://challengepost.github.io/supportcenter/">← Return to Devpost Support Center</a>
     </div>
   </body>
 </html>

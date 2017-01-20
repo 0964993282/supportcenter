@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Creating Hackathon Rules - Submission Requirements</title>
@@ -24,7 +25,7 @@
       <p>The platform allows submitters to upload one file, though they can combine files into a single ZIP file. Are you requiring any file uploads, such as installation files?</p>
 
       <h5>Other</h5>
-      <p>The platform requires contestants to enter an entry name and description. Include any specific instructions for these and any custom fields we&rsquo;ve created for you in your rules.</p>
+      <p>The platform requires contestants to enter an entry name and description. Include any specific instructions for these and any custom fields we’ve created for you in your rules.</p>
 
       <h4>Platform</h4>
       <p>What operating systems or devices can the app run on?</p>
@@ -46,7 +47,7 @@
 
       <h5>Multiple Apps</h5>
       <p>Can contestants submit more than one app?</p>
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Vote for a submission</title>
@@ -10,19 +11,20 @@
   <body>
     <div class="container">
       <h3>Voting for a submission</h3>
-      <p>To vote, you must sign up for a Devpost account. If you don&rsquo;t have an account, sign up for one before voting.</p>
+      <p>To vote, you must sign up for a Devpost account. If you don’t have an account, sign up for one before voting.</p>
       <ol>
-        <li>If you haven&rsquo;t already, log in to your Devpost account.</li>
+        <li>If you haven’t already, log in to your Devpost account.</li>
         <li>Navigate to the URL of the hackathon you want to vote in.</li>
         <li>Select the tab labeled "<strong>Submission Gallery</strong>."</li>
         <li>Select the submissions you want to vote for. This will bring you to the submission page.</li>
-        <li>Click the &ldquo;<strong>Vote</strong>&rdquo; button on the right side.<br><img alt="Screenshot" src="images/1390728_en/415813"  /></li>
+        <li>Click the “<strong>Vote</strong>” button on the right side.<br><img alt="Screenshot" src="/images/1390728_en/415813">
+</li>
       </ol>
       <p>After your vote has been counted, the button will change from "<strong>Vote for this submission</strong>" to "<strong>Thanks for voting!</strong>"</p>
 
-      <p><img alt="" src="images/1390728_en/417015"  /></p>
+      <p><img alt="" src="/images/1390728_en/417015"></p>
 
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

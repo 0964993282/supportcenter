@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How can I reorder my projects?</title>
@@ -10,13 +11,13 @@
   <body>
     <div class="container">
       <h3>How can I reorder my projects?</h3>
-      <p>Portfolios are a great way to showcase your work. Your projects will appear in chronological order (newest to oldest) by default. You can select up to 4 of your favorite projects to remain in the top row at all times. To do this, log in to your Devpost account and click the white star in the top right corner of your favorite projects&rsquo; thumbnails:</p>
+      <p>Portfolios are a great way to showcase your work. Your projects will appear in chronological order (newest to oldest) by default. You can select up to 4 of your favorite projects to remain in the top row at all times. To do this, log in to your Devpost account and click the white star in the top right corner of your favorite projects’ thumbnails:</p>
 
-      <p><img alt="" src="images/1982857_en/451859"  /></p>
+      <p><img alt="" src="/images/1982857_en/451859"></p>
 
       <p>You can change your starred projects at anytime by deselecting the stars and selecting others with a maximum of 4 selected at one time. </p>
 
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

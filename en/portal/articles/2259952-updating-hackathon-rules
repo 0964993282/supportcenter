@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Updating Hackathon Rules</title>
@@ -12,11 +13,11 @@
       <h3>Updating Hackathon Rules</h3>
       <p>We recommend avoiding updates or changes to your rules after the competition launches unless absolutely necessary. If you think it is necessary, you should consult your attorney. Here are a few practical suggestions to consider in addition to the advice from your attorney:</p>
 
-      <h4>Don&rsquo;t disadvantage anyone</h4>
+      <h4>Don’t disadvantage anyone</h4>
       <p>Contestants may have started work based on the rules in place at launch. Avoid changes that could put them at a disadvantage or make them wish they had started in a different direction.</p>
 
-      <h4>Don&rsquo;t do it last minute</h4>
-      <p>Don&rsquo;t change dates at the last minute! Contestants who worked hard at the end may be unhappy with a last minute extension of the submission deadline or winner announcement date.</p>
+      <h4>Don’t do it last minute</h4>
+      <p>Don’t change dates at the last minute! Contestants who worked hard at the end may be unhappy with a last minute extension of the submission deadline or winner announcement date.</p>
 
       <h4>Update everywhere</h4>
       <p>If the rules change, be sure to update any related language elsewhere on the site, such as the Enter a Submission page, How to Enter, and FAQ.</p>
@@ -28,7 +29,7 @@
         <li>a message to anyone who has created a draft</li>
         <li>an update to people who have registered for your challenge (or include information about rules changes in your next general update)</li>
       </ul>
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

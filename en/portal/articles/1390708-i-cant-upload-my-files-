@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>I can’t upload my files</title>
@@ -12,12 +13,12 @@
       <h3>I can’t upload my files</h3>
       <h4>For problems uploading to the "Images" field:</h4>
 
-      <p>Make sure that your image is one that we support (JPG, GIF, or PNG files no larger than 5MB). If your images meet these requirements and you&#39;re still having trouble, <a href="mailto:support@devpost.com">contact us</a>.</p>
+      <p>Make sure that your image is one that we support (JPG, GIF, or PNG files no larger than 5MB). If your images meet these requirements and you're still having trouble, <a href="mailto:support@devpost.com">contact us</a>.</p>
 
       <h4>For problems uploading to the "Upload a file" field:</h4>
 
-      <p>Make sure that your file type is one that we support (Word documents, PDFs, and ZIP files no larger than 35MB). If you&#39;re still having trouble, <a href="mailto:support@devpost.com">contact us</a>.</p>
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p>Make sure that your file type is one that we support (Word documents, PDFs, and ZIP files no larger than 35MB). If you're still having trouble, <a href="mailto:support@devpost.com">contact us</a>.</p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Things to Consider: Hackathon Rules and Requirements</title>
@@ -18,13 +19,13 @@
 
       <h4>More articles in the series:</h4>
       <ul>
-        <li><a href="2258831_en.html">Creating Hackathon Rules - Standard Information</a></li>
-        <li><a href="2259947_en.html">Creating Hackathon Rules - Submission Requirements</a></li>
-        <li><a href="2259949_en.html">Creating Hackathon Rules - Communicating Requirements</a></li>
-        <li><a href="2259952_en.html">Updating Hackathon Rules</a></li>
-        <li><a href="2259966_en.html">Applying and Interpreting Rules</a></li>
+        <li><a href="/en/portal/articles/2258831-creating-hackathon-rules---standard-info">Creating Hackathon Rules - Standard Information</a></li>
+        <li><a href="/en/portal/articles/2259947-creating-hackathon-rules---submission-requirements">Creating Hackathon Rules - Submission Requirements</a></li>
+        <li><a href="/en/portal/articles/2259949-creating-hackathon-rules---communicating-requirements-">Creating Hackathon Rules - Communicating Requirements</a></li>
+        <li><a href="/en/portal/articles/2259952-updating-hackathon-rules">Updating Hackathon Rules</a></li>
+        <li><a href="/en/portal/articles/2259966-applying-and-interpreting-hackathon-rules">Applying and Interpreting Rules</a></li>
       </ul>
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

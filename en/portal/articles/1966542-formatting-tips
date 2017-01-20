@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Formatting tips</title>
@@ -11,7 +12,7 @@
     <div class="container">
       <h3>Formatting tips for your hackathon site:</h3>
       <p>Are you having trouble formatting your text? When you copy and paste from Microsoft Word, a lot of invisible formatting codes are inserted and can cause formatting problems.</p>
-      <p>Typical symptoms include being unable to change the formatting of some pieces of text, or nothing happens when you use formatting buttons, or your content looks messy and doesn&rsquo;t retain your original formatting.</p>
+      <p>Typical symptoms include being unable to change the formatting of some pieces of text, or nothing happens when you use formatting buttons, or your content looks messy and doesn’t retain your original formatting.</p>
       <p>If you’ve never used a plain text editor, we recommend TextPad on PC and TextEdit on Mac.</p>
       <ol>
         <li>Copy and paste your text from Microsoft Word into a plain text editor. This will remove all the invisible formatting codes.</li>
@@ -19,7 +20,7 @@
         <li>Format the text within our text box.</li>
       </ol>
 
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

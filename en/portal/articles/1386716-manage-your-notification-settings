@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Manage your notification settings</title>
@@ -16,10 +17,11 @@
         <li>Click your username at the top right corner of the page.</li>
         <li>From the dropdown menu, select "<strong>Settings</strong>".</li>
         <li>Select "<strong>Notifications</strong>" to manage your notification settings. <br>
-        <img src="images/1386716_en/414161"/></li>
+        <img src="/images/1386716_en/414161">
+</li>
       </ol>
 
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

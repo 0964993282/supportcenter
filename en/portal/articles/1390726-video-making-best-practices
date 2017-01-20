@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Video-making best practices</title>
@@ -10,29 +11,36 @@
   <body>
     <div class="container">
       <h3>Video-making best practices</h3>
-      <p>Aside from your app itself, your demo video is one of the most important (and exciting) elements of your submission/portfolio piece! In fact, it&rsquo;s often one of the first things that judges, voters, and those checking out your software will review.</p>
+      <p>Aside from your app itself, your demo video is one of the most important (and exciting) elements of your submission/portfolio piece! In fact, it’s often one of the first things that judges, voters, and those checking out your software will review.</p>
 
       <p>As you create your demonstration video, we recommend keeping the following best-practices in mind:</p>
 
       <ul>
-      	<li><strong>Use an emulator or create a screencast.</strong> Snazzy marketing videos are great for promotional purposes, but they don&rsquo;t help others understand and evaluate your app. While there are no hard and fast rules to making a compelling video, we recommend creating a screencast (a video screen capture with audio narration) because it can help judges, voters, and other users to understand exactly how your app works, without the gimmicks.</li>
+      	<li>
+<strong>Use an emulator or create a screencast.</strong> Snazzy marketing videos are great for promotional purposes, but they don’t help others understand and evaluate your app. While there are no hard and fast rules to making a compelling video, we recommend creating a screencast (a video screen capture with audio narration) because it can help judges, voters, and other users to understand exactly how your app works, without the gimmicks.</li>
 
-      	<li><strong>What&rsquo;s your elevator pitch? </strong>Be sure to explain what your app does (and if making the video for a specific hackathon, how it addresses the hackathon) in the first few seconds of your video. You can get into the details of how it works immediately after, but treat the opening seconds of your video as you would a movie trailer or TV ad: pique your audience&rsquo;s interest.​​</li>
+      	<li>
+<strong>What’s your elevator pitch? </strong>Be sure to explain what your app does (and if making the video for a specific hackathon, how it addresses the hackathon) in the first few seconds of your video. You can get into the details of how it works immediately after, but treat the opening seconds of your video as you would a movie trailer or TV ad: pique your audience’s interest.​​</li>
 
-      	<li><strong>If you&rsquo;re entering your video as part of a submission to a hackathon, don&rsquo;t wait until the last minute to upload it.</strong> Keep in mind that the time it takes to upload/process a video on YouTube, Vimeo, or Youku varies greatly depending on the format of your original video, file size, upload traffic and Internet connection speed. As such, uploading your video could take anywhere from a few minutes to several hours or more.​</li>
+      	<li>
+<strong>If you’re entering your video as part of a submission to a hackathon, don’t wait until the last minute to upload it.</strong> Keep in mind that the time it takes to upload/process a video on YouTube, Vimeo, or Youku varies greatly depending on the format of your original video, file size, upload traffic and Internet connection speed. As such, uploading your video could take anywhere from a few minutes to several hours or more.​</li>
 
-      	<li><strong>Edit.</strong> The great thing about digital videomaking is that you can show viewers only the best parts. Edit out the messy stuff, if you can, and don&rsquo;t be afraid to do multiple takes.​​</li>
-      	<li><strong>Get organized.</strong> Write out a script of what you&rsquo;ll say/show in your video, rehearse it before recording and keep in mind all of the above!</li>
+      	<li>
+<strong>Edit.</strong> The great thing about digital videomaking is that you can show viewers only the best parts. Edit out the messy stuff, if you can, and don’t be afraid to do multiple takes.​​</li>
+      	<li>
+<strong>Get organized.</strong> Write out a script of what you’ll say/show in your video, rehearse it before recording and keep in mind all of the above!</li>
       </ul>
 
       <p>We also recommend checking out these additional resources:</p>
 
       <ul>
-      	<li>Hubspot Blog&rsquo;s <a href="http://blog.hubspot.com/blog/tabid/6307/bid/19225/5-Easy-Tips-to-Create-Video-Screencasts-Like-a-Pro.aspx">&ldquo;5 Easy Tips to Create Video Screencasts Like a Pro&rdquo;</a></li>
-      	<li>ReadWriteWeb&rsquo;s <a href="http://readwrite.com/2011/09/22/screencasting-tips-and-best-pr">&ldquo;Screencasting Tips and Best Practices&rdquo;</a></li>
+      	<li>Hubspot Blog’s <a href="http://blog.hubspot.com/blog/tabid/6307/bid/19225/5-Easy-Tips-to-Create-Video-Screencasts-Like-a-Pro.aspx">“5 Easy Tips to Create Video Screencasts Like a Pro”</a>
+</li>
+      	<li>ReadWriteWeb’s <a href="http://readwrite.com/2011/09/22/screencasting-tips-and-best-pr">“Screencasting Tips and Best Practices”</a>
+</li>
       	<li>Example of a <a href="http://hacklolla2011.challengepost.com/submissions/3491-veokami-for-lollapalooza">winning video</a> from a past hackathon</li>
       </ul>
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

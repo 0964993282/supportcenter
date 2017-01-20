@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How Judging Works - for Judges</title>
@@ -16,39 +17,39 @@
 
       <h4>Being a Judge</h4>
 
-      <p>You&rsquo;ve agreed to be a judge, but you don&rsquo;t know what to expect. Your main question is probably: how will I know when to start judging? It&rsquo;s easy: we&rsquo;ll send you an email. When the hackathon creator sets up the hackathon, he or she was asked to list all the judges and their email addresses. When the judging period starts, the email below will automatically be sent to everyone listed as a judge.</p>
+      <p>You’ve agreed to be a judge, but you don’t know what to expect. Your main question is probably: how will I know when to start judging? It’s easy: we’ll send you an email. When the hackathon creator sets up the hackathon, he or she was asked to list all the judges and their email addresses. When the judging period starts, the email below will automatically be sent to everyone listed as a judge.</p>
 
-      <p>The dates of the judging period will be clearly indicated on the hackathon homepage, and we suggest you review the dates so you know when to expect this email. That way, if for some reason you don&rsquo;t receive the email below, you can write to the hackathon manager or to us at support@challengepost.com.</p>
+      <p>The dates of the judging period will be clearly indicated on the hackathon homepage, and we suggest you review the dates so you know when to expect this email. That way, if for some reason you don’t receive the email below, you can write to the hackathon manager or to us at support@challengepost.com.</p>
 
-      <p><img alt="" src="images/1931708_en/431123"  /></p>
+      <p><img alt="" src="/images/1931708_en/431123"></p>
 
       <h4>Start Judging</h4>
 
-      <p>The only way to start judging (and to get to the judging section of the dashboard generally) is to click the &ldquo;Start Judging&rdquo; link in the email you receive. When you click &ldquo;Start Judging,&rdquo; you&rsquo;ll be prompted to log in to your account or create an account. Then you&rsquo;ll be taken to the Judging dashboard.</p>
+      <p>The only way to start judging (and to get to the judging section of the dashboard generally) is to click the “Start Judging” link in the email you receive. When you click “Start Judging,” you’ll be prompted to log in to your account or create an account. Then you’ll be taken to the Judging dashboard.</p>
 
-      <p><img alt="" src="images/1931708_en/431113"  /></p>
+      <p><img alt="" src="/images/1931708_en/431113"></p>
 
-      <p>The judging dashboard lists the detailed judging criteria that you&rsquo;ll use to judge submissions. It also displays your progress. When you&rsquo;re ready to start judging the submissions, click the red &ldquo;Start judging&rdquo; button. You&rsquo;ll go directly to the first submission.</p>
+      <p>The judging dashboard lists the detailed judging criteria that you’ll use to judge submissions. It also displays your progress. When you’re ready to start judging the submissions, click the red “Start judging” button. You’ll go directly to the first submission.</p>
 
       <h4>Rating Submissions</h4>
 
-      <p><img alt="" src="images/1931708_en/431119"  /></p>
+      <p><img alt="" src="/images/1931708_en/431119"></p>
 
       <p>For each item in the list of criteria, you will assign a rating of 1-5 stars.</p>
 
-      <p><img alt="" src="images/1931708_en/431115"  /></p>
+      <p><img alt="" src="/images/1931708_en/431115"></p>
 
-      <p>1 star is the lowest rating and 5 is the highest rating. (There is no other mechanism for judges to provide feedback.) For more details about the criteria, you can click the question mark icon next to each item in the list. When you&rsquo;re done ranking a submission, click &ldquo;Save and Continue&rdquo; to continue to the next submission.</p>
+      <p>1 star is the lowest rating and 5 is the highest rating. (There is no other mechanism for judges to provide feedback.) For more details about the criteria, you can click the question mark icon next to each item in the list. When you’re done ranking a submission, click “Save and Continue” to continue to the next submission.</p>
 
-      <p>If you do not want to judge a particular submission because of a conflict of interest, you can select the &ldquo;I recuse myself&rdquo; checkbox.</p>
+      <p>If you do not want to judge a particular submission because of a conflict of interest, you can select the “I recuse myself” checkbox.</p>
 
       <p>After you have rated all the submissions, you can double-check your progress on the Judging dashboard.</p>
 
-      <p><img alt="" src="images/1931708_en/431120"  /></p>
+      <p><img alt="" src="/images/1931708_en/431120"></p>
 
-      <p>Once you&rsquo;ve rated all the submissions, your work is done!</p>
+      <p>Once you’ve rated all the submissions, your work is done!</p>
 
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

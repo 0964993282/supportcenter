@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How do I change my Portfolio header color/image?</title>
@@ -14,11 +15,13 @@
       <ol>
         <li>Navigate to <a href="http://www.devpost.com">devpost.com</a>.</li>
         <li>Log in to your Devpost account.</li>
-        <li>Click your username at the top right corner of the page to go to your Portfolio.<br><img alt="" src="images/1897008_en/416976"  /></li>
-        <li>Click the &ldquo;<strong>Edit Header Design</strong>&rdquo; link on the bottom right corner of your portfolio header.<br><img alt="" src="images/1897008_en/416978"  /></li>
-        <li>You can now upload an image (JPG, PNG, or GIF) or select a color for your header background. Once you are done, click the &ldquo;<strong>Save Header Design</strong>&rdquo; button.</li>
+        <li>Click your username at the top right corner of the page to go to your Portfolio.<br><img alt="" src="/images/1897008_en/416976">
+</li>
+        <li>Click the “<strong>Edit Header Design</strong>” link on the bottom right corner of your portfolio header.<br><img alt="" src="/images/1897008_en/416978">
+</li>
+        <li>You can now upload an image (JPG, PNG, or GIF) or select a color for your header background. Once you are done, click the “<strong>Save Header Design</strong>” button.</li>
       </ol>
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

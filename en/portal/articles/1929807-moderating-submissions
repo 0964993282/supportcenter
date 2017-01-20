@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Moderating Submissions</title>
@@ -16,57 +17,63 @@
 
       <p>To review the submission click on the link in the email, or go to the <b>Submissions</b> tab in the Manage Area of the hackathon.</p>
 
-      <p><img alt="" src="images/1929807_en/430511"  /></p>
+      <p><img alt="" src="/images/1929807_en/430511"></p>
 
       <p>Below is an image of what your <b>Submissions</b> tab will look like after your hackathon has received a few submissions.</p>
 
-      <p><img alt="" src="images/1929807_en/430512"  /></p>
+      <p><img alt="" src="/images/1929807_en/430512"></p>
 
-      <p>You can mark submissions as &ldquo;Gallery&rdquo; or &ldquo;Hidden&rdquo; as they come in. By default every submission is marked &ldquo;Pending&rdquo; (in other words, it is waiting to be reviewed).</p>
+      <p>You can mark submissions as “Gallery” or “Hidden” as they come in. By default every submission is marked “Pending” (in other words, it is waiting to be reviewed).</p>
 
-      <p>If you mark a submission as &ldquo;Gallery&rdquo; that means when you turn on the gallery (see the <b>TURN ON GALLERY </b>button) the submission will be visible to the public. If you mark a submission as &ldquo;Hidden&rdquo; it will be hidden from the public.</p>
+      <p>If you mark a submission as “Gallery” that means when you turn on the gallery (see the <b>TURN ON GALLERY </b>button) the submission will be visible to the public. If you mark a submission as “Hidden” it will be hidden from the public.</p>
 
-      <p>Submissions will not be visible to the public (even those marked &ldquo;Gallery&rdquo;) until you turn on the gallery by clicking the <b>TURN ON GALLERY</b> button.</p>
+      <p>Submissions will not be visible to the public (even those marked “Gallery”) until you turn on the gallery by clicking the <b>TURN ON GALLERY</b> button.</p>
 
-      <p><em>Please note: we highly recommend that you do not turn the gallery off after it has been turned on. If you turn the gallery off and then on, all the submitters of entries marked &ldquo;Gallery&rdquo; will receive a new email stating that their submission has been published.</em>
+      <p><em>Please note: we highly recommend that you do not turn the gallery off after it has been turned on. If you turn the gallery off and then on, all the submitters of entries marked “Gallery” will receive a new email stating that their submission has been published.</em>
 
 
-      <h4>Admin module</h4>
+      </p>
+<h4>Admin module</h4>
 
-      <p>You can also mark each submission as &ldquo;Gallery&rdquo; or &ldquo;Hidden&rdquo; using the admin module on an individual submission page.</p>
+      <p>You can also mark each submission as “Gallery” or “Hidden” using the admin module on an individual submission page.</p>
 
-      <p><img alt="" src="images/1929807_en/526475"  /></p>
+      <p><img alt="" src="/images/1929807_en/526475"></p>
 
       <p>
-      Let&rsquo;s take a closer look at the admin module.
+      Let’s take a closer look at the admin module.
        </p>
 
-      <p><img alt="" src="images/1929807_en/430515"  /></p>
+      <p><img alt="" src="/images/1929807_en/430515"></p>
 
       <ol>
-        <li><b>Visibility</b> You can mark submissions as &ldquo;Gallery&rdquo; or &ldquo;Hidden&rdquo; as they come in. By default every submission is marked &ldquo;Pending&rdquo; (in other words, it is waiting to be reviewed). If you mark a submission as &ldquo;Gallery&rdquo; that means when you turn on the gallery (see the <b>TURN ON GALLERY</b> button) the submission will be visible to the public. If you mark a submission as &ldquo;Hidden&rdquo; it will be hidden from the public.</li>
-        <li><b>Judging</b> Before the judging period can start, each &ldquo;Gallery&rdquo; submission must also be marked as &ldquo;Judge&rdquo; or &ldquo;Don&rsquo;t Judge.&rdquo;</li>
-        <li><b>Notes</b> Hackathon managers can share internal notes on each submission. These notes are only visible to hackathon managers. The submitter, the judges, and the public cannot see these internal notes.</li>
-        <li><b>Messages</b> It is possible for the hackathon managers to write to individual submitters through the platform. These messages are visible to all hackathon managers and the individual submitter. Team members, the judges, and the public cannot see these messages.</li>
-        <li><b>Edit</b> Hackathon managers have the power to edit submissions at any time. Any edits you make to the submission will be publicly visible if the submission is marked &ldquo;Gallery&rdquo; and the Gallery is turned on. We recommend you only edit submissions to fix minor issues like typographical errors.</li>
+        <li>
+<b>Visibility</b> You can mark submissions as “Gallery” or “Hidden” as they come in. By default every submission is marked “Pending” (in other words, it is waiting to be reviewed). If you mark a submission as “Gallery” that means when you turn on the gallery (see the <b>TURN ON GALLERY</b> button) the submission will be visible to the public. If you mark a submission as “Hidden” it will be hidden from the public.</li>
+        <li>
+<b>Judging</b> Before the judging period can start, each “Gallery” submission must also be marked as “Judge” or “Don’t Judge.”</li>
+        <li>
+<b>Notes</b> Hackathon managers can share internal notes on each submission. These notes are only visible to hackathon managers. The submitter, the judges, and the public cannot see these internal notes.</li>
+        <li>
+<b>Messages</b> It is possible for the hackathon managers to write to individual submitters through the platform. These messages are visible to all hackathon managers and the individual submitter. Team members, the judges, and the public cannot see these messages.</li>
+        <li>
+<b>Edit</b> Hackathon managers have the power to edit submissions at any time. Any edits you make to the submission will be publicly visible if the submission is marked “Gallery” and the Gallery is turned on. We recommend you only edit submissions to fix minor issues like typographical errors.</li>
       </ol>
 
       <h4>Publishing submissions</h4>
 
       <p>Once a submission has been made visible to the public, the submitter will receive an email notifying them that their submission has been published.</p>
 
-      <p><img alt="" src="images/1929807_en/430516"  /></p>
+      <p><img alt="" src="/images/1929807_en/430516"></p>
 
-      <p>If you mark a submission as &ldquo;Hidden&rdquo; the submitter does not receive any notification.</p>
+      <p>If you mark a submission as “Hidden” the submitter does not receive any notification.</p>
 
       <h4>Editing submissions</h4>
 
       <p>Submitters can edit their submissions any time up until the end of the submission period. If a submitter edits a submission that is already visible in the gallery they will see the following pop-up:</p>
 
-      <p><img alt="" src="images/1929807_en/430517"  /></p>
+      <p><img alt="" src="/images/1929807_en/430517"></p>
 
-      <p>If a publicly visible submission is edited, it will go back into &ldquo;Pending&rdquo; mode until it is reviewed by a hackathon manager. When this happens, the hackathon creator and all the hackathon managers will be updated via email.</p>
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p>If a publicly visible submission is edited, it will go back into “Pending” mode until it is reviewed by a hackathon manager. When this happens, the hackathon creator and all the hackathon managers will be updated via email.</p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>

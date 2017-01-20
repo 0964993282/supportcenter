@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Can I delete software from my portfolio?</title>
@@ -14,12 +15,14 @@
       <ol>
         <li>Navigate to <a href="http://devpost.com">devpost.com</a>.</li>
         <li>Log in to your Devpost account.</li>
-        <li>Click your username at the top right corner of the page.<br><img src="images/1417467_en/416961"  /></li>
+        <li>Click your username at the top right corner of the page.<br><img src="/images/1417467_en/416961">
+</li>
         <li>Select the software that you want to edit.</li>
         <li>Click the blue button labeled "<strong>Edit project</strong>."</li>
-        <li>Click the link at the bottom of the page labeled &ldquo;<strong>Delete project.</strong>&rdquo;<br><img src="images/1417467_en/416963"  /></li>
+        <li>Click the link at the bottom of the page labeled “<strong>Delete project.</strong>”<br><img src="/images/1417467_en/416963">
+</li>
       </ol>
-      <p><a href="index.html">&larr; Return to Devpost Support Center</a></p>
+      <p><a href="index.html">← Return to Devpost Support Center</a></p>
     </div>
   </body>
 </html>
